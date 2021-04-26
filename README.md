@@ -19,7 +19,7 @@ This Website Application help users find and retrieve information on Australia c
 
 - [Bootstrap](https://getbootstrap.com)
 - [JQuery](https://jquery.com)
-- [data.gov.au ACNC Registered Charities API](https://data.gov.au/dataset/ds-dga-b050b242-4487-4306-abf5-07ca073e5594/details)
+- [ACNC Registered Charities API](https://data.gov.au/dataset/ds-dga-b050b242-4487-4306-abf5-07ca073e5594/details)
 - [mapbox](https://www.mapbox.com)
 - [Google Maps](https://www.google.com/maps)
 
