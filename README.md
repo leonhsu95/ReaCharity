@@ -36,7 +36,7 @@ The project should look like this, please do not recreate or reuse under any cir
 All resources were provided by "University of Sydney Bootcamp" [GitLab Repo](https://sydney.bootcampcontent.com/university-of-sydney/usyd-syd-fsf-pt-02-2021-u-c)
 Weather API sourced freely and without copyright restriction from [data.gov.au ACNC Registered Charities API](https://data.gov.au/dataset/ds-dga-b050b242-4487-4306-abf5-07ca073e5594/and [mapbox](https://www.mapbox.com)details).
 
-Project developed by [Samuel Heal][https://github.com/SamuelHeal], [Sarah Hinton][https://github.com/SarahHn92], [Leon Hsu][https://github.com/leonhsu95] and [Thomas Nicholson][https://github.com/thomas-nicholson]. 
+Project developed by (Samuel Heal)[https://github.com/SamuelHeal], (Sarah Hinton)[https://github.com/SarahHn92], (Leon Hsu)[https://github.com/leonhsu95] and (Thomas Nicholson)[https://github.com/thomas-nicholson]. 
 
 ## License
 
